@@ -4,10 +4,10 @@
 
 ## About this Repository
 
-This project is a template repository to facilitate setting up an online repository for a research or data science project.
-This repository includes files and directories recommended to enable reproducibility, collaboration and sharing of research objects and outcomes of the project.
+This is a template for setting-up a research or data science project online, such as on GitHub.
+This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
 
-This project follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
+This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
 When reusing this repository, please update information on your README page with information about your project.
 
 <!--If reusing this repository, delete this section -->
