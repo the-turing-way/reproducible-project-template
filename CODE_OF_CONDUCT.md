@@ -87,19 +87,7 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 a representative at an online or offline event.
 
-## Enforcement Responsibilities
-
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behaviour and will take appropriate and fair corrective, restorative and 
-action in response to any behaviour that they deem inappropriate, threatening, offensive,
-or harmful.
-
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
-
-## Enforcement
+## Enforcement 
 
 Instances of harassing, abusive, or otherwise unacceptable behaviour should be
 reported to the community leaders responsible for enforcement.
@@ -109,6 +97,19 @@ All reports will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 Together we strive to foster an environment where everyone feels valued, respected, and included.
+
+
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behaviour and will take appropriate and fair corrective, restorative and 
+action in response to any behaviour that they deem inappropriate, threatening, offensive,
+or harmful.
+
+### Enforcement Responsibilities
+
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
 
 ## Reporting Incident
 
@@ -139,7 +140,7 @@ We will respect confidentiality requests all the time for the purpose of protect
 * Reporter: Person reporting an incident.
 * Reportee: Person being reported.
 
-### Report Handling and Enforcement
+## Report Handling Process
 
 After receiving a report, the community leaders (or person handling the report), team lead or programme director in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
 
@@ -161,7 +162,7 @@ questions will be asked on behalf of the person(s) harmed:
 The person handling the report may follow up with reportee or reporter after this discussion 
 with any additional questions to help them reach a resolution.
 
-## Resolutions
+### Resolutions
 
 Here are examples of possible resolutions to a report. 
 This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed. 
