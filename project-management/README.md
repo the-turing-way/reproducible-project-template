@@ -4,6 +4,8 @@
   * Funding applications
   * Ethical approval (here or in policies)
   * Data request forms
+  * Data management plans
+  * Reproducible publishing plan
 * Budget reporting
 * Progress reports
   * Sprint reports
