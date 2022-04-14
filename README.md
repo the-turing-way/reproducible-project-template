@@ -40,7 +40,8 @@ To learn more about how to create a README.md file, please read the [Landing Pag
 - [x] Add a [LICENSE](LICENSE.md)
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [x] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
+- [ ] Issue templates
+    - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
 - [ ] Create a directory with files for project management (meetings, report, proposals)
 - [ ] Create a directory with files for communications
 - [ ] Create a directory for research analysis
