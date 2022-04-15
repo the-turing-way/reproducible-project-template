@@ -55,8 +55,7 @@ This repository is jointly developed and maintained by Open Research Community B
 📫 Contact
 ---
 
-This project is maintained by Malvika Sharan.
-For any organisation related queries or concerns, you can directly reach out to her by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
 ♻️ License
 ---
