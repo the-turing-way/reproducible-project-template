@@ -8,36 +8,28 @@ assignees: ''
 ---
 
 <!--
-Please complete the following sections when you open an issue. You are encouraged to keep this top level comment box updated as you develop and respond to reviews. If you have write access to the repository please also assign the appropriate label (or labels) to your issue. Note that text within html comment tags will not be rendered.
+💙 Thank you for opening this issue. Please complete the following sections by providing relevant information. If you have the write access to the repository please also assign the appropriate label (or labels) to your issue. Note that text within HTML comment tags (starting with < and ending with >) will not be rendered.
 -->
 ### Summary
 
-<!-- Please provide a detailed description of the change or addition you are proposing, or the question you're asking. Please provide as much context as possible and link to related issues and/or pull requests.
--->
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing.*
+* [Replace this sentence with a description of the change or addition you are proposing or the question you're asking. Please provide as much context as possible and link to related issues and/or pull requests]
 
 ### What needs to be done?
 
-<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
+<!-- Bullet points (indicated by * or -) listing associated tasks. [ ] shows tasks that needs to be completed and [x] filled checkboxes for completed tasks -->
 
-- [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
-- [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+- [ ] Task-1
+- [ ] Task-2
+- [ ] ...
 
 
 ### Who can help?
 
-<!-- We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
-
-* *Lorem ipsum dolor sit amet, consectetur adipiscing.*
-* *Lorem ipsum dolor sit amet, consectetur adipiscing.*
-
+* [List skills required to complete tasks under this issue]
+* [Tag people with @username if you know someone who can help]
 
 ---
 
 ### Updates
 
-<!-- To avoid that others have to read through the full thread of comments, please update the initial issue with important updates (e.g. decisions taken) regularly. You can update the task list and summary above directly (this is encouraged!) or add new information below in this new section.
--->
-
-*Lorem ipsum dolor sit amet, consectetur adipiscing.*
+* [Replace this sentence to provide a status summary after the issue has been opened. To avoid others from reading through the full thread of comments, please share updates (e.g. decisions taken) regularly.]
