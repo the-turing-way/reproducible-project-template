@@ -25,8 +25,7 @@ To learn more about how to create a README.md file, please read the [Landing Pag
 
 **Maintainers**
 
-- [Dr. Malvika Sharan](https://www.turing.ac.uk/people/spotlights/malvika-sharan), Senior Researcher - Tools, Practices and Systems 
-
+This repository is jointly developed and maintained by Open Research Community Building (led by Dr. Malvika Sharan) and Research Application Management (led by Dr. Aida Mehonic) teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
