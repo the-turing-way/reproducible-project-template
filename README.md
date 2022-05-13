@@ -33,8 +33,6 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 ├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
 ├── CONTRIBUTING.md    <- Information on how to contribute to the project.
 ├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
 │
@@ -56,15 +54,12 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │   ├── data           <- Scripts to download or generate data
 │   │   └── make_dataset.py
 │   │
-│   ├── features       <- Scripts to turn raw data into features for modeling
-│   │   └── build_features.py
-│   │
 │   ├── models         <- Scripts to train models and then use trained models to make
 │   │   │                 predictions
 │   │   ├── predict_model.py
 │   │   └── train_model.py
 │   │
-│  └── visualisation  <- Scripts to create exploratory and results oriented visualizations
+│  └── visualisation  <- Scripts to create exploratory and results oriented visualisations
 │       └── visualise.py
 └──
 ```
