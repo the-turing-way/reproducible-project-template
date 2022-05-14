@@ -44,6 +44,17 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "dingaaling",
+      "name": "Jennifer Ding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5104098?v=4",
+      "profile": "http://jending.com",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
