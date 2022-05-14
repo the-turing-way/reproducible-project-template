@@ -21,12 +21,6 @@ Here are recommendations of directories (main bullet points) and files (sub-bull
   * [ ] Project members - be careful of GDPR rules when sharing  details
   * [ ] Stakeholder details - collaborators, partners, funders
   * [ ] Organogram or organisation chart
-* [ ] Communications
-  * [ ] Communications channels
-  * [ ] Onboarding materials
-  * [ ] Meeting notes - provide a template
-  * [ ] Main contacts - be careful of GDPR rules when sharing  details
-  * [ ] Promotion and outreach materials
 * [ ] Policies 
   * [ ] Authorship requirements (here or in policies)
   * [ ] Official collaboration
