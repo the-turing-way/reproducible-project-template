@@ -8,14 +8,12 @@ Here are recommendations of directories (main bullet points) and files (sub-bull
   * [ ] Data request forms
   * [ ] Data management plans
   * [ ] Reproducible publishing plan
-* [ ] Project report
-  * [ ] Project proposal or pre-registration report
+* [ ] Project proposals
+  * [ ] Original and subsequent proposals - using naming convention to indicate the submission dates
+  * [ ] Pre-registration report
   * [ ] Budget overview
   * [ ] Any modification in project plan
-  * [ ] Sprint reports
-  * [ ] Quarterly/Annual reports 
-  * [ ] Six monthly project updates
-  * [ ] Impact assessments
+  * [ ] Impact assessments plan
 * [ ] People folder
   * [ ] Project leads
   * [ ] Project members - be careful of GDPR rules when sharing  details
