@@ -19,18 +19,6 @@ It is recommended to select and adapt a well established Code of Conduct. Many o
 *The Turing Way* [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
 <!--Delete these lines when reusing this repository-->
 
-## Our Pledge
-
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
-
 ### Diversity Statement
 
 We encourage everyone to participate and are committed to building a project
@@ -45,7 +33,7 @@ gender, gender identity or expression, culture, ethnicity, language, national
 origin, political beliefs, profession, race, religion, sexual orientation,
 socioeconomic status, and technical ability. We will not tolerate discrimination
 based on any of the protected characteristics above, including participants with
-disabilities.
+any visible or invisible disabilities.
 
 ## Our Standards
 
