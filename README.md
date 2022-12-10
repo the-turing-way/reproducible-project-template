@@ -59,7 +59,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │   │   ├── predict_model.py
 │   │   └── train_model.py
 │   │
-│  └── visualisation  <- Scripts to create exploratory and results oriented visualisations
+│   └── visualisation  <- Scripts to create exploratory and results oriented visualisations
 │       └── visualise.py
 └──
 ```
