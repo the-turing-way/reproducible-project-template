@@ -62,12 +62,12 @@ Examples of unacceptable behaviour include:
 ## Scope
 
 This Code of Conduct applies to all members participating in the activities, 
-events and processes taking place within the **Open Research Community Building Team**. 
+events and processes taking place within the scope of this repository. 
 Specifically, our Code of Conduct applies to any conduct:
-- in interactions within the team/community
-- at any team activity, communication or event
-- outside the team activity when a team member is representing projects associated with the team
-- by members outside the team engaging on the Open Community Building GitHub repository.
+- in interactions within the team/community maintaining this repo
+- at any team activity, communication or event related to this repo
+- outside the team activity when a team member is representing this project
+- by members outside the team engaging on this GitHub repository.
 
 This Code of Conduct also applies when
 an individual is officially representing the community in public spaces.
