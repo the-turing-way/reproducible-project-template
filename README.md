@@ -3,11 +3,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*A The Turing Way inspired project to enable reproducibility in data science.*
+*This is a template for setting-up a research or data science project online, such as on GitHub.*
 
 ## About this Repository
 
-This is a template for setting-up a research or data science project online, such as on GitHub.
+This repository operationalises The Turing Way recommendations for structring project repository to support reproducibility in data science projects.
 This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
@@ -25,7 +25,7 @@ To learn more about how to create a README.md file, please read the [Landing Pag
 
 ## Repo Structure
 
-Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
+Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
 
 ```
 ├── LICENSE
@@ -66,7 +66,9 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 **Maintainers**
 
-This repository is jointly developed and maintained by Open Research Community Building (led by Dr. Malvika Sharan) and Research Application Management (led by Dr. Aida Mehonic) teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+This repository has been set-up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+
+As an open source repository, anyone beyond these teams are very welcome to reuse this template for setting up their projects.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
