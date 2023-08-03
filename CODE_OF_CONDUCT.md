@@ -1,5 +1,8 @@
 # Contributor Covenant Code of Conduct
 
+NOTE: PLEASE UPDATE THIS FOR YOUR OWN REPO
+This is an example of a Code of Conduct used within the Turing Tools, Practices, and Systems (TPS) team that should be adapted to meet the needs of your specific team.
+
 > Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
 
 This Code of Conduct document outlines our expectations for 
@@ -102,12 +105,9 @@ decisions when appropriate.
 ## Reporting Incident
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
-the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incidents are perceived 
-as difficult (not straightforward) except when any potential conflict of interest may arise.
+by contacting the Team Lead, [TODO: ADD NAME AND CONTACT INFO]. 
 
-To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
-Programme Director, Kirstie Whitaker (email: kwhitaker@turing.ac.uk). 
+To report an issue involving the team lead, please email directly to the Programme Lead, [TODO: ADD NAME AND CONTACT INFO].  
 
 In your report please include:
 
