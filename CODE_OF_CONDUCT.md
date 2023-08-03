@@ -1,6 +1,10 @@
 # Contributor Covenant Code of Conduct
 
+**NOTE: PLEASE UPDATE THIS FOR YOUR OWN REPO**
+
 > Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
+
+*This is an example of a Code of Conduct (CoC) provided as a starting point for an open source project. When reusing this repo, you should edit and adapt this to meet the needs of your specific team. If you want to apply an institutional CoC to a project repo make sure that all members involved are employees of the same organisation, such as for the Turing. When external members are involved, you might want to use a hybrid approach, as used by the [Open Research Community Management Team](https://github.com/alan-turing-institute/open-research-community-management/blob/main/CODE_OF_CONDUCT.md#122-if-the-breach-is-considered-outside-the-scope-of-this-code-of-conduct). There are many more examples to choose from, so please also check other sources.*
 
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (project).
@@ -102,12 +106,15 @@ decisions when appropriate.
 ## Reporting Incident
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
-the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incidents are perceived 
-as difficult (not straightforward) except when any potential conflict of interest may arise.
+by contacting the Team Lead.
+For **this** template repo related communications, please email Malvika Sharan (msharan@turing.ac.uk).
 
-To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
-Programme Director, Kirstie Whitaker (email: kwhitaker@turing.ac.uk). 
+**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
+
+To report an issue involving the team lead, please email directly to the Programme Lead.
+For **this** template repo related communications, please email Kirstie Whitaker (kwhitaker@turing.ac.uk).
+
+**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
 
 In your report please include:
 
@@ -148,7 +155,7 @@ questions will be asked on behalf of the person(s) harmed:
 - What do you think needs to happen to make things right?
 
 The person handling the report may follow up with reportee or reporter after this discussion 
-with any additional questions to help them reach a resolution.
+with any additional questions to help them reach a resolution. 
 
 ### Resolutions
 
