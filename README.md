@@ -109,6 +109,12 @@ as long as you provide attribution (give appropriate credit, provide a link to t
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
 licensor endorses you or your use, and with no additional restrictions.
 
+🤝 Acknowledgement
+---
+
+This repository has been created for anyone to reuse -- please attribute us as:
+> This repository uses the tamplate created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
