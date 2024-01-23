@@ -59,14 +59,19 @@ Motivation and background in a nutshell.
 
 ## The Team
 
-- **Members:** List of team members.
-- **Roles & Collaboration:** [Team Directory](link-to-directory) outlines roles, responsibilities, and collaboration opportunities.
+- **Members:** List of team members and their roles in the project.
+- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
 
 ## Contributing
 
 - **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
 - **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
 - **Resource Plans:** Details on available resources and recommended practices for the project team.
+
+## Licensing
+
+Clearly define the license under which the repository's work is shared.
+(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
 
 ## Citing & Acknowledgement
 
