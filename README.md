@@ -3,15 +3,28 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting-up a research or data science project online, such as on GitHub.*
+*This is a template for setting up a research or data science project online, such as on GitHub.*
 
 ## About this Repository
 
-This repository operationalises The Turing Way recommendations for structring project repository to support reproducibility in data science projects.
+This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
 This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update information on your README page with information about your project.
+When reusing this repository, please update the information on your README page with information about your project.
+
+### Using this Repository
+
+![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
+
+**Image Description:**
+
+Your streamlined project setup is just three steps away:
+* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
+* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
+* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
+
+After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
 <!--If reusing this repository, delete this section -->
 ## About README
@@ -40,7 +53,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+├── notebooks          <- Jupyter notebooks. The naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
@@ -59,16 +72,16 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │   │   ├── predict_model.py
 │   │   └── train_model.py
 │   │
-│   └── visualisation  <- Scripts to create exploratory and results oriented visualisations
+│   └── visualisation  <- Scripts to create exploratory and results-oriented visualisations
 │       └── visualise.py
 └──
 ```
 
 **Maintainers**
 
-This repository has been set-up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
 
-As an open source repository, anyone beyond these teams are very welcome to reuse this template for setting up their projects.
+As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
@@ -85,12 +98,12 @@ As an open source repository, anyone beyond these teams are very welcome to reus
 - [ ] .gitignore file (choose from a template)
 - [ ] Issue templates
     - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, report, proposals)
+- [ ] Create a directory with files for project management (meetings, reports, proposals)
 - [ ] Create a directory with files for communications
 - [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcome to share (?)
+- [ ] Create a directory for research results/outcomes to share (?)
 - [ ] Create a directory for ethics approval and project policies
-- [ ] Create a directory with files for stakeholders info and nature of engagement
+- [ ] Create a directory with files for stakeholders' info and the nature of engagement
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
 - [ ] Add badges
@@ -98,7 +111,7 @@ As an open source repository, anyone beyond these teams are very welcome to reus
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
 ♻️ License
 ---
@@ -107,13 +120,13 @@ This work is licensed under the MIT license (code) and Creative Commons Attribut
 You are free to share and adapt the material for any purpose, even commercially,
 as long as you provide attribution (give appropriate credit, provide a link to the license,
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
-licensor endorses you or your use, and with no additional restrictions.
+licensor endorses you or your use and with no additional restrictions.
 
 🤝 Acknowledgement
 ---
 
 This repository has been created for anyone to reuse -- please attribute us as:
-> This repository uses the tamplate created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+> This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
 ## Contributors ✨
 
