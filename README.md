@@ -34,6 +34,52 @@ README page should describe the project -- what is the purpose of the project, w
 
 To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
 
+When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
+
+```
+# Project Quick Start
+
+*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
+
+*A sentence summarising what to expect from this repository*  
+
+## Vision and Mission
+
+- **Vision:** One sentence capturing the project's overarching vision.
+- **Mission:** One sentence defining the project's goals and target audience.
+
+## About
+
+Motivation and background in a nutshell.
+
+## Roadmap & Milestones
+
+- **Goals:** Clear overview of overarching and short-term goals.
+- **Outcomes:** Description of expected results and deliverables.
+
+## The Team
+
+- **Members:** List of team members.
+- **Roles & Collaboration:** [Team Directory](link-to-directory) outlines roles, responsibilities, and collaboration opportunities.
+
+## Contributing
+
+- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
+- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
+- **Resource Plans:** Details on available resources and recommended practices for the project team.
+
+## Citing & Acknowledgement
+
+- **Citation Instructions:** How to cite the project.
+- **Acknowledgment:** Recognising contributions by different members.
+
+## Contact
+
+- **Reach Out:** Contact details for questions, feedback, or ideas.
+
+```
+
+
 <!--If reusing this repository, delete this section -->
 
 ## Repo Structure
