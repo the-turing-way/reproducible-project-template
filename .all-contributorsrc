@@ -15,6 +15,56 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "EKaroune",
+      "name": "Emma Karoune",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58147174?v=4",
+      "profile": "https://github.com/EKaroune",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "aleesteele",
+      "name": "Anne Lee Steele",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18509789?v=4",
+      "profile": "http://www.aleesteele.com",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "vhellon",
+      "name": "Vicky Hellon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93144591?v=4",
+      "profile": "https://github.com/vhellon",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "dingaaling",
+      "name": "Jennifer Ding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5104098?v=4",
+      "profile": "http://jending.com",
+      "contributions": [
+        "content",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "hlapp",
+      "name": "Hilmar Lapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51458?v=4",
+      "profile": "http://lappland.io",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -23,6 +73,5 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitType": "docs",
   "commitConvention": "angular"
 }

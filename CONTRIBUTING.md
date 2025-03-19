@@ -62,7 +62,6 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-This project is maintained by the members of the **[Open Research Community Building Team](https://github.com/alan-turing-institute/open-community-building)**.
 For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**.
 
 ♻️ License

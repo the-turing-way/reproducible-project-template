@@ -1,6 +1,10 @@
 # Contributor Covenant Code of Conduct
 
+**NOTE: PLEASE UPDATE THIS FOR YOUR OWN REPO**
+
 > Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
+
+*This is an example of a Code of Conduct (CoC) provided as a starting point for an open source project. When reusing this repo, you should edit and adapt this to meet the needs of your specific team. If you want to apply an institutional CoC to a project repo make sure that all members involved are employees of the same organisation, such as for the Turing. When external members are involved, you might want to use a hybrid approach, as used by the [Open Research Community Management Team](https://github.com/alan-turing-institute/open-research-community-management/blob/main/CODE_OF_CONDUCT.md#122-if-the-breach-is-considered-outside-the-scope-of-this-code-of-conduct). There are many more examples to choose from, so please also check other sources.*
 
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (project).
@@ -19,18 +23,6 @@ It is recommended to select and adapt a well established Code of Conduct. Many o
 *The Turing Way* [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
 <!--Delete these lines when reusing this repository-->
 
-## Our Pledge
-
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
-
 ### Diversity Statement
 
 We encourage everyone to participate and are committed to building a project
@@ -45,7 +37,7 @@ gender, gender identity or expression, culture, ethnicity, language, national
 origin, political beliefs, profession, race, religion, sexual orientation,
 socioeconomic status, and technical ability. We will not tolerate discrimination
 based on any of the protected characteristics above, including participants with
-disabilities.
+any visible or invisible disabilities.
 
 ## Our Standards
 
@@ -74,12 +66,12 @@ Examples of unacceptable behaviour include:
 ## Scope
 
 This Code of Conduct applies to all members participating in the activities, 
-events and processes taking place within the **Open Research Community Building Team**. 
+events and processes taking place within the scope of this repository. 
 Specifically, our Code of Conduct applies to any conduct:
-- in interactions within the team/community
-- at any team activity, communication or event
-- outside the team activity when a team member is representing projects associated with the team
-- by members outside the team engaging on the Open Community Building GitHub repository.
+- in interactions within the team/community maintaining this repo
+- at any team activity, communication or event related to this repo
+- outside the team activity when a team member is representing this project
+- by members outside the team engaging on this GitHub repository.
 
 This Code of Conduct also applies when
 an individual is officially representing the community in public spaces.
@@ -87,19 +79,7 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 a representative at an online or offline event.
 
-## Enforcement Responsibilities
-
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behaviour and will take appropriate and fair corrective, restorative and 
-action in response to any behaviour that they deem inappropriate, threatening, offensive,
-or harmful.
-
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
-
-## Enforcement
+## Enforcement 
 
 Instances of harassing, abusive, or otherwise unacceptable behaviour should be
 reported to the community leaders responsible for enforcement.
@@ -110,15 +90,31 @@ All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 Together we strive to foster an environment where everyone feels valued, respected, and included.
 
+
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behaviour and will take appropriate and fair corrective, restorative and 
+action in response to any behaviour that they deem inappropriate, threatening, offensive,
+or harmful.
+
+### Enforcement Responsibilities
+
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
+
 ## Reporting Incident
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
-the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incidents are perceived 
-as difficult (not straightforward) except when any potential conflict of interest may arise.
+by contacting the Team Lead.
+For **this** template repo related communications, please email Malvika Sharan (msharan@turing.ac.uk).
 
-To report an issue involving the team lead, please email directly to the Tools, Practices and Systems 
-Programme Director, Kirstie Whitaker (email: kwhitaker@turing.ac.uk). 
+**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
+
+To report an issue involving the team lead, please email directly to the Programme Lead.
+For **this** template repo related communications, please email Kirstie Whitaker (kwhitaker@turing.ac.uk).
+
+**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
 
 In your report please include:
 
@@ -139,7 +135,7 @@ We will respect confidentiality requests all the time for the purpose of protect
 * Reporter: Person reporting an incident.
 * Reportee: Person being reported.
 
-### Report Handling and Enforcement
+## Report Handling Process
 
 After receiving a report, the community leaders (or person handling the report), team lead or programme director in this case, will review the incident report and follow this process to determine the cause and consequences that violated this Code of Conduct and take further actions:
 
@@ -159,9 +155,9 @@ questions will be asked on behalf of the person(s) harmed:
 - What do you think needs to happen to make things right?
 
 The person handling the report may follow up with reportee or reporter after this discussion 
-with any additional questions to help them reach a resolution.
+with any additional questions to help them reach a resolution. 
 
-## Resolutions
+### Resolutions
 
 Here are examples of possible resolutions to a report. 
 This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed. 
