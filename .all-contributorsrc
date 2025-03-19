@@ -12,14 +12,17 @@
       "profile": "http://malvikasharan.github.io/",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "doc"
       ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "reproducible-project-template",
-  "projectOwner": "alan-turing-institute",
+  "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
